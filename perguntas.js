@@ -1,8 +1,8 @@
 
 criaCartao(
     'futebol',
-    '',
-    ''
+    'em que ano flamengo foi campeão mundial',
+    'em 1981'
 )
 
 criaCartao(
