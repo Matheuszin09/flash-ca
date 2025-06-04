@@ -1,8 +1,8 @@
 
 criaCartao(
     'futebol',
-    'quem vai ganhar o mundial de clubes?',
-    'flamengo'
+    '',
+    ''
 )
 
 criaCartao(
@@ -12,13 +12,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'geografia',
+    'qual menor pais do mundo?',
+    'vaticano'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'historia',
+    'que ano paranaguá deixou de ser um estado?',
+    'em 1853'
 )
