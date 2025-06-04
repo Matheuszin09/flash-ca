@@ -6,7 +6,7 @@ criaCartao(
 )
 
 criaCartao(
-    'futebol',
+    'Futebol',
     'Melhor time de 2012',
     'Corinthians'
 )
